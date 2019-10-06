@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1570330142 source:c:\users\el macho\desktop\sherman\nueva carpeta\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"ArrayEmployees.h"
+
+1570325459 c:\users\el macho\desktop\sherman\nueva carpeta\tp2\arrayemployees.h
+
+1570329751 source:c:\users\el macho\desktop\sherman\nueva carpeta\tp2\funcionemployee.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"ArrayEmployees.h"
+
